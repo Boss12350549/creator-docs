@@ -1,0 +1,6 @@
+[high-quality catapult](https://create.roblox.com/store/asset/17266332444/IntroToStudioCatapult)
+ All asset pack, this tutorial walks you through the creation process for an experience in which players can launch five projectiles toward targets on floating platforms, including guidance on:  
+- Building and organizing a data model for a single place using one of Studio's project templates. 
+- Customizing both primitive and complex 3D objects from the Creator Store with unique properties for your own gameplay requirements. 
+- Organizing and placing scripts in their proper locations so the Roblox engine can properly simulate and render gameplay. 
+- Playtesting and publishing your creation to a global audience that accesses the platform using a variety of devices.  After you complete this process, you can learn how to recreate a simple 3D platformer experience with the [core curriculum](../core/index.md), experiment with different use case tutorials, or start making your own projects.  <img src="../../assets/getting-started/Overview.jpg" alt="" width="90%" />  ## Create a Project  A **project** is a collection of assets, settings, and other resources that together represent an experience.
